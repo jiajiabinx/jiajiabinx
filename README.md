@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jia, and I am a Columbia U-trained computer scientist / AI data engineer. I graduated from Williams College with a BA in Applied Mathmatics and Economics. I am interested in NLP, ML, and multimodal LLM with a focus on paralinguistics attributes in speech and how that can make LLM more "emotionally intelligent". 
+My name is Jia, and I am a Columbia U-trained computer scientist / AI data engineer. I graduated from Williams College with a BA in Applied Mathmatics and Economics. I am interested in NLP, ML, and multimodal LLM with a focus on narrative text data and how to arrange them chronologically- basically, how to find the "event horizon" of a long narrative text
 
 - 🔭 I’m currently working on Echo - a language model fine-tuned on chronological textual narratives. What if we chronologically arrange textual narratives and train a model that can best predict the direction of its semantic narrative? Aka - can we make a model to predict future events?
   
