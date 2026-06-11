@@ -11,6 +11,7 @@ My name is Jia, and I am a Columbia U-trained computer scientist / AI data engin
   1. [Recylcomatron](https://github.com/jiajiabinx/recylcomatron) Robotics project - made a robot that can use computer vision to sort garbage
   2. Several language model training projects: [Auto captioning](https://github.com/jiajiabinx/auto_caption) where I trained a LSTM model to auto-caption images
   3. Field Seminar: [Travel club for those that want more than travel](https://www.fieldseminar.com)
+  4. Scientific fortune telling: [Echo](https://github.com/jiajiabinx/echo) wrote about the motivation and process [here](https://jiajiabinx.substack.com/)
 
 - Prior - I was an equity derivatives trader at Nomura. I worked on alternative data ingestion and quantitative trading strategies.
 
