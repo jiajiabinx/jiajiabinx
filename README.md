@@ -5,7 +5,7 @@ My name is Jia, and I am a Columbia U-trained computer scientist / AI data engin
 
 - 🌱 Currently working for Faire wholesale in its Strategy & Analytics team
 - 🔭 As a side project, building [trybutter.ai](http://trybutter.ai), AI harness for agentic analytics workflow
-- 🌱 I am also the technical co-founder of [Shamiri Health](https://www.shamirihealth.com/) and shipped our first mobile/web-based app as its sole backend engineer; I managed a team of front-end engineers/UX designers.
+- 🌱 I was also the technical co-founder of [Shamiri Health](https://www.shamirihealth.com/) and shipped our first mobile/web-based app as its sole backend engineer; I managed a team of front-end engineers/UX designers.
   
 - 👯 Some other fun apps that I have done
   1. [Recylcomatron](https://github.com/jiajiabinx/recylcomatron) Robotics project - made a robot that can use computer vision to sort garbage
