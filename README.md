@@ -4,7 +4,7 @@ My name is Jia, and I am a Columbia U-trained computer scientist / AI data engin
 
 
 - 🌱 Currently working for Alibaba on its strategy team for US buyer growth
-- 🌱 I was also the technical co-founder of [Shamiri Health](https://www.shamirihealth.com/) and shipped our first mobile/web-based app as its sole backend engineer; I managed a team of front-end engineers/UX designers.
+- 🌱 I was also the technical co-founder of [Shamiri Health](https://www.shamirihealth.com/) and shipped our first mobile/web-based app as its sole backend engineer; I managed a team of front-end engineers/UX designers. Our work is published in [JMIR](https://pubmed.ncbi.nlm.nih.gov/42235059/)
   
 - 👯 Some other fun apps that I have done
   1. [Recylcomatron](https://github.com/jiajiabinx/recylcomatron) Robotics project - made a robot that can use computer vision to sort garbage
